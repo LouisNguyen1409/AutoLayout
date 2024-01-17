@@ -1,5 +1,3 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
-
 # Auto Layout 
 
 ## Our Goal
@@ -22,10 +20,6 @@ Although Dicee is already pretty dicey, we get into problems when we try to rota
 * Understanding what Xcode needs in order to correctly layout a design.
 * How to use Stack Views to create complex interfaces.
 
-
-
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
 
